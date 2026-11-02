@@ -51,7 +51,7 @@ ACCOUNTS_FILE = "accounts.json"
 TOKEN_CACHE_FILE = "token_cache.json"
 DEVICES_FILE = "devices.json"
 TOKEN_CACHE_TTL = 1200
-INDEX_HTML_PATH = "DARK_MASTER/index.html"
+INDEX_HTML_PATH = "index.html"
 
 START_MATCH_INTERVAL = 3.0
 NEW_MATCH_DELAY = 2.0
